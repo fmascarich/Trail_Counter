@@ -1,0 +1,9 @@
+SSID : TrailCounterWiFi
+PWD : nevada775
+
+Pi hosts webpage at:
+192.168.5.1
+
+SSH:
+pi@192.168.5.1
+
